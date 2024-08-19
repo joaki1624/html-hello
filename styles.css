@@ -1,0 +1,61 @@
+#titulo{
+    background: white;
+    height: 5%;
+    width: 100%;
+
+}                                       
+.myDiv{
+    background: rgb(206, 206, 206);
+    
+	width: 400px;
+}
+#LetrasTitulo{
+    padding-top: 10px;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: x-large;
+    text-align:center;
+}
+#fondo{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+body {
+	background: white;
+	display: block;
+	justify-content: center;
+    padding: 0;
+}
+#Cuadrado1{
+    top: 30px;
+    background: white;
+    margin-top: 50px;
+    padding: 10px;
+    
+    width:450px;
+}
+.tituloCuadrado{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    
+}
+
+.imagenes{
+    width:450px;
+    height: 300px;
+}
+
+.descripcionCuadrado{
+    padding: 10px;
+    margin-top: 10px;
+    
+}
+.div1{
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: large;
+}
